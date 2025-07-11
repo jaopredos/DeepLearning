@@ -19,16 +19,9 @@ Este repositório foi criado com o objetivo de documentar e compartilhar meu pro
 Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de aprendizado. Cada notebook é autocontido e aborda um conceito específico.
 
 * **01 - Fundamentos de Redes Neurais:**
-    * [Perceptron](link_para_o_notebook_no_github)
+    * [Perceptron](https://github.com/jaopredos/DeepLearning/blob/main/Perceptron/perceptron.ipynb)
     * [Redes Neurais Artificiais (ANN)](link_para_o_notebook_no_github)
     * [Funções de Ativação](link_para_o_notebook_no_github)
-* **02 - Redes Neurais Convolucionais (CNNs):**
-    * [Introdução às CNNs](link_para_o_notebook_no_github)
-    * [Arquiteturas Famosas (LeNet, AlexNet)](link_para_o_notebook_no_github)
-* **03 - Redes Neurais Recorrentes (RNNs):**
-    * [Introdução às RNNs](link_para_o_notebook_no_github)
-    * [LSTMs e GRUs](link_para_o_notebook_no_github)
-* **... (adicionar outros tópicos conforme for estudando)**
 
 ---
 
@@ -38,7 +31,7 @@ Para explorar os notebooks em sua máquina local, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone https://github.com/jaopredos/DeepLearning.git
     ```
 
 2.  **Crie um ambiente virtual (recomendado):**
@@ -50,12 +43,6 @@ Para explorar os notebooks em sua máquina local, siga os passos abaixo:
 3.  **Instale as dependências:**
     ```bash
     pip install -r requirements.txt
-    ```
-    *Obs: Certifique-se de criar um arquivo `requirements.txt` com todas as bibliotecas necessárias.*
-
-4.  **Inicie o Jupyter Notebook:**
-    ```bash
-    jupyter notebook
     ```
 
 ---
@@ -74,3 +61,21 @@ Para explorar os notebooks em sua máquina local, siga os passos abaixo:
 * **Ambiente:** Jupyter Notebook
 
 ---
+
+## 🤝 Contribuições
+
+Este é um projeto de estudos pessoal, mas sinta-se à vontade para abrir *issues* caso encontre algum erro ou tenha sugestões de melhoria. Pull requests também são bem-vindos!
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+## 📫 Contato
+
+* **Seu Nome:** [Seu Nome Completo]
+* **LinkedIn:** [https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/seu-perfil/)
+* **GitHub:** [https://github.com/seu-usuario](https://github.com/seu-usuario)
