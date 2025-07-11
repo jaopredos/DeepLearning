@@ -75,5 +75,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📫 Contato
 
 * **Seu Nome:** João Pedro de Castro
-* **LinkedIn:** [www.linkedin.com/in/joão-pedro-de-castro-gomes](www.linkedin.com/in/joão-pedro-de-castro-gomes)
+* **LinkedIn:** [João Pedro de Castro](https://www.linkedin.com/in/joaopedro-decastrogomes)
 * **GitHub:** [https://github.com/jaopredos](https://github.com/jaopredos)
