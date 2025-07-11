@@ -19,7 +19,7 @@ Este repositório foi criado com o objetivo de documentar e compartilhar meu pro
 Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de aprendizado. Cada notebook é autocontido e aborda um conceito específico.
 
 * **01 - Fundamentos de Redes Neurais:**
-    * [Perceptron](https://github.com/jaopredos/DeepLearning/blob/main/Perceptron/perceptron.ipynb)
+    * [Perceptron](https://github.com/jaopredos/DeepLearning/blob/main/Fundamentos/perceptron.ipynb)
     
 ---
 
