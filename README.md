@@ -20,9 +20,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
 
 * **01 - Fundamentos de Redes Neurais:**
     * [Perceptron](https://github.com/jaopredos/DeepLearning/blob/main/Perceptron/perceptron.ipynb)
-    * [Redes Neurais Artificiais (ANN)](link_para_o_notebook_no_github)
-    * [Funções de Ativação](link_para_o_notebook_no_github)
-
+    
 ---
 
 ## 🚀 Como Utilizar
@@ -77,5 +75,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📫 Contato
 
 * **Seu Nome:** João Pedro de Castro
-* **LinkedIn:** [https://www.linkedin.com/in/seu-perfil/](www.linkedin.com/in/joão-pedro-de-castro-gomes)
-* **GitHub:** [https://github.com/seu-usuario](https://github.com/jaopredos)
+* **LinkedIn:** [www.linkedin.com/in/joão-pedro-de-castro-gomes](www.linkedin.com/in/joão-pedro-de-castro-gomes)
+* **GitHub:** [https://github.com/jaopredos](https://github.com/jaopredos)
