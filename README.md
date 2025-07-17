@@ -20,6 +20,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
 
 * **01 - Fundamentos de Redes Neurais:**
     * [Perceptron](https://github.com/jaopredos/DeepLearning/blob/main/Fundamentos/perceptron.ipynb)
+    * [Backpropagation e a descida do gradiente](https://github.com/jaopredos/DeepLearning/blob/main/Fundamentos/backpropagation.ipynb)
     
 ---
 
