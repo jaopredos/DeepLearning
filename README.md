@@ -23,7 +23,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
     * [Backpropagation e a descida do gradiente](https://github.com/jaopredos/DeepLearning/blob/main/Fundamentos/backpropagation.ipynb)
 
 * **02 - Fully Connected Networks:**
-    * [Classificação Multiclasse](https://github.com/jaopredos/DeepLearning/blob/main/]
+    * [Classificação Multiclasse](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/multiclass-classification.ipynb)
     
 ---
 
