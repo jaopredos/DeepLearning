@@ -25,7 +25,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
 * **02 - Fully Connected Networks:**
     * [Classificação Multiclasse do zero](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/multiclass-classification.ipynb)
     * [Classificação Multiclasse com TensorFlow e Keras](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/classification-with-TFandKeras.ipynb)
-    * [Regressão com TensorFlow e Keras](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/regression-DL.ipynb)
+    * [Regressão com Redes Neurais Profundas (DNN)](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/regression-DL.ipynb)
     
 ---
 
