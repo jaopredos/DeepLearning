@@ -28,6 +28,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
     * [Regressão com Redes Neurais Profundas (DNN)](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/regression-DL.ipynb)
 
 * **03 - Convolutional Neural Networks (CNN):**
+    * [Redes Neurais Convolucionais Aplicadas à Classificação de Imagens](https://github.com/jaopredos/DeepLearning/blob/main/Convolutional%20Neural%20Networks/image-classification.ipynb)
     
 ---
 
