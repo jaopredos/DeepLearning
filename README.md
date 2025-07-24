@@ -32,7 +32,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
     * [Redes Neurais Convolucionais Profundas (DNNs)](https://github.com/jaopredos/DeepLearning/blob/main/Convolutional%20Neural%20Networks/deeper-cnns.ipynb)
 
 * **04 - RECURRENT NEURAL NETWORKS (RNN) AND LONG SHORT-TERM MEMORY (LSTM):** 
-    * [Redes Neurais Recorrentes Predizendo Séries Temporais]()
+    * [Redes Neurais Recorrentes Predizendo Séries Temporais](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%20and%20LSTM/time-sequences.ipynb)
     
 ---
 
