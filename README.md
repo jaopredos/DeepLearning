@@ -18,9 +18,9 @@ Este repositório foi criado com o objetivo de documentar e compartilhar meu pro
 
 Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de aprendizado. Cada notebook é autocontido e aborda um conceito específico.
 
-* **01 - Fundamentos de Redes Neurais:**
-    * [Perceptron](https://github.com/jaopredos/DeepLearning/blob/main/Fundamentos/perceptron.ipynb)
-    * [Backpropagation e a descida do gradiente](https://github.com/jaopredos/DeepLearning/blob/main/Fundamentos/backpropagation.ipynb)
+* **01 - Foundations of Neural Networks:**
+    * [Perceptron](https://github.com/jaopredos/DeepLearning/blob/main/Foundations/perceptron.ipynb)
+    * [Backpropagation e a descida do gradiente](https://github.com/jaopredos/DeepLearning/blob/main/Foundations/backpropagation.ipynb)
 
 * **02 - Fully Connected Networks:**
     * [Classificação Multiclasse do zero](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/multiclass-classification.ipynb)
