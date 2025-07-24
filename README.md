@@ -29,6 +29,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
 
 * **03 - Convolutional Neural Networks (CNN):**
     * [Redes Neurais Convolucionais Aplicadas à Classificação de Imagens](https://github.com/jaopredos/DeepLearning/blob/main/Convolutional%20Neural%20Networks/image-classification.ipynb)
+    * [Redes Neurais Convolucionais Profundas (DNNs)](https://github.com/jaopredos/DeepLearning/blob/main/Convolutional%20Neural%20Networks/deeper-cnns.ipynb)
     
 ---
 
