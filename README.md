@@ -20,10 +20,10 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
 
 * **01 - Foundations of Neural Networks:**
     * [Perceptron](https://github.com/jaopredos/DeepLearning/blob/main/Foundations/perceptron.ipynb)
-    * [Backpropagation e a descida do gradiente](https://github.com/jaopredos/DeepLearning/blob/main/Foundations/backpropagation.ipynb)
+    * [Backpropagation e a Descida do Gradiente](https://github.com/jaopredos/DeepLearning/blob/main/Foundations/backpropagation.ipynb)
 
 * **02 - Fully Connected Networks:**
-    * [Classificação Multiclasse do zero](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/multiclass-classification.ipynb)
+    * [Classificação Multiclasse do Zero](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/multiclass-classification.ipynb)
     * [Classificação Multiclasse com TensorFlow e Keras](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/classification-with-TFandKeras.ipynb)
     * [Regressão com Redes Neurais Profundas (DNN)](https://github.com/jaopredos/DeepLearning/blob/main/Fully%20Connected%20Networks/regression-DL.ipynb)
 
@@ -31,7 +31,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
     * [Redes Neurais Convolucionais Aplicadas à Classificação de Imagens](https://github.com/jaopredos/DeepLearning/blob/main/Convolutional%20Neural%20Networks/image-classification.ipynb)
     * [Redes Neurais Convolucionais Profundas (DNNs)](https://github.com/jaopredos/DeepLearning/blob/main/Convolutional%20Neural%20Networks/deeper-cnns.ipynb)
 
-* **04 - RECURRENT NEURAL NETWORKS (RNN) AND LONG SHORT-TERM MEMORY (LSTM):** 
+* **04 - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM):** 
     * [Redes Neurais Recorrentes Predizendo Séries Temporais](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%20and%20LSTM/time-sequences.ipynb)
     
 ---
@@ -63,7 +63,6 @@ Para explorar os notebooks em sua máquina local, siga os passos abaixo:
 * **Linguagem:** Python 3.9
 * **Bibliotecas Principais:**
     * TensorFlow / Keras
-    * PyTorch
     * Scikit-learn
     * Pandas
     * NumPy
