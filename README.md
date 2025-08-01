@@ -33,7 +33,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
 
 * **04 - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM):** 
     * [Redes Neurais Recorrentes Predizendo Séries Temporais](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%20and%20LSTM/time-sequences.ipynb)
-    * [Long Short-Term Memory](https://github.com/jaopredos/DeepLearning/blob/main/lstm.ipynb)
+    * [Long Short-Term Memory](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%20and%20LSTM/lstm.ipynb)
     
 ---
 
