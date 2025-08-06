@@ -74,6 +74,21 @@ Para explorar os notebooks em sua máquina local, siga os passos abaixo:
 
 ---
 
+## 📚 Referências
+
+Este material foi construído com base em diversas fontes de alta qualidade. As principais referências que guiaram meus estudos são:
+
+* **Livros:**
+    * [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) por Stuart Russel e Peter Norvig.
+    * [Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow](https://www.amazon.com/Learning-Deep-Processing-Transformers-TensorFlow/dp/0137470355) por Magnus Ekman.
+    * [Deep Learning](https://www.deeplearningbook.org/) por Ian Goodfellow, Yoshua Bengio e Aaron Courville.
+
+* **Cursos Online:**
+    * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Andrew Ng (Coursera).
+    * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen (Livro online).
+
+---
+
 ## 🤝 Contribuições
 
 Este é um projeto de estudos pessoal, mas sinta-se à vontade para abrir *issues* caso encontre algum erro ou tenha sugestões de melhoria. Pull requests também são bem-vindos!
