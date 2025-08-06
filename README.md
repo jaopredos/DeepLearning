@@ -31,9 +31,9 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
     * [Redes Neurais Convolucionais Aplicadas à Classificação de Imagens](https://github.com/jaopredos/DeepLearning/blob/main/Convolutional%20Neural%20Networks/image-classification.ipynb)
     * [Redes Neurais Convolucionais Profundas (DNNs)](https://github.com/jaopredos/DeepLearning/blob/main/Convolutional%20Neural%20Networks/deeper-cnns.ipynb)
 
-* **04 - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM):** 
+* **04 - Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU):** 
     * [Redes Neurais Recorrentes Predizendo Séries Temporais](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%20and%20LSTM/time-sequences.ipynb)
-    * [Long Short-Term Memory](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%20and%20LSTM/lstm.ipynb)
+    * [Long Short-Term Memory e GRU](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%20and%20LSTM/lstm.ipynb)
     
 ---
 
