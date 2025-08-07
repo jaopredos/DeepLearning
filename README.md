@@ -10,7 +10,7 @@ Um repositório com anotações e implementações em Jupyter Notebooks sobre mi
 
 ## 📖 Sobre o Repositório
 
-Este repositório foi criado com o objetivo de documentar e compartilhar meu progresso nos estudos de Deep Learning. Aqui você encontrará uma coleção de Jupyter Notebooks com explicações teóricas, implementações de algoritmos e exemplos práticos. A ideia é criar um material de consulta que possa ser útil tanto para mim quanto para outros estudantes da área.
+Este repositório foi criado com o objetivo de documentar e compartilhar meu progresso nos estudos de Deep Learning. Aqui você encontrará uma coleção de Jupyter Notebooks com explicações teóricas, implementações de algoritmos e exemplos práticos. A ideia é criar um material de consulta que possa ser útil tanto para mim quanto para outros estudantes da área. A última seção é mais focada em assuntos relacionados ao **Processamento de Linguagem Natural (NLP)**.
 
 ---
 
@@ -35,7 +35,9 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
     * [Redes Neurais Recorrentes Predizendo Séries Temporais](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%20and%20LSTM/time-sequences.ipynb)
     * [Long Short-Term Memory e GRU](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%2C%20LSTM%20and%20GRU/lstm-gru.ipynb)
     * [Autocompletar textos com LSTM e Beam Search](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%2C%20LSTM%20and%20GRU/text-autocompletion.ipynb)
-    
+
+* **05 - Natural Language Processing (NLP):**
+
 ---
 
 ## 🚀 Como Utilizar
