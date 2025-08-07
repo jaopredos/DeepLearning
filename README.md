@@ -86,10 +86,6 @@ Este material foi construído com base em diversas fontes de alta qualidade. As 
     * [Deep Learning](https://www.deeplearningbook.org/) por Ian Goodfellow, Yoshua Bengio e Aaron Courville.
     * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) por Dan Jurafsky e James H. Martin.
 
-* **Cursos Online:**
-    * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Andrew Ng (Coursera).
-    * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen (Livro online).
-
 ---
 
 ## 🤝 Contribuições
