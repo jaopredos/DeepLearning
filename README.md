@@ -84,6 +84,7 @@ Este material foi construído com base em diversas fontes de alta qualidade. As 
     * [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) por Stuart Russel e Peter Norvig.
     * [Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, Natural Language Processing, and Transformers Using TensorFlow](https://www.amazon.com/Learning-Deep-Processing-Transformers-TensorFlow/dp/0137470355) por Magnus Ekman.
     * [Deep Learning](https://www.deeplearningbook.org/) por Ian Goodfellow, Yoshua Bengio e Aaron Courville.
+    * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) por Dan Jurafsky e James H. Martin.
 
 * **Cursos Online:**
     * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Andrew Ng (Coursera).
