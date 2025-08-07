@@ -10,7 +10,7 @@ Um repositório com anotações e implementações em Jupyter Notebooks sobre mi
 
 ## 📖 Sobre o Repositório
 
-Este repositório foi criado com o objetivo de documentar e compartilhar meu progresso nos estudos de Deep Learning. Aqui você encontrará uma coleção de Jupyter Notebooks com explicações teóricas, implementações de algoritmos e exemplos práticos. A ideia é criar um material de consulta que possa ser útil tanto para mim quanto para outros estudantes da área. A última seção é mais focada em assuntos relacionados ao **Processamento de Linguagem Natural (NLP)**.
+Este repositório foi criado com o objetivo de documentar e compartilhar meu progresso nos estudos de Deep Learning. Aqui você encontrará uma coleção de Jupyter Notebooks com explicações teóricas, implementações de algoritmos e exemplos práticos. A ideia é criar um material de consulta que possa ser útil tanto para mim quanto para outros estudantes da área. A seção final é mais focada em assuntos relacionados ao **Processamento de Linguagem Natural (NLP)**.
 
 ---
 
@@ -102,6 +102,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📫 Contato
 
-* **Seu Nome:** João Pedro de Castro
+* **Nome:** João Pedro de Castro
 * **LinkedIn:** [João Pedro de Castro](https://www.linkedin.com/in/joaopedro-decastrogomes)
 * **GitHub:** [https://github.com/jaopredos](https://github.com/jaopredos)
