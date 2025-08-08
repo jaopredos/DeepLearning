@@ -37,7 +37,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
     * [Autocompletar textos com LSTM e Beam Search](https://github.com/jaopredos/DeepLearning/blob/main/Recurrent%20Neural%20Networks%2C%20LSTM%20and%20GRU/text-autocompletion.ipynb)
 
 * **05 - Natural Language Processing (NLP):**
-
+    *[Modelos de Linguagem e Embeddings]()
 ---
 
 ## 🚀 Como Utilizar
