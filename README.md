@@ -38,6 +38,8 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
 
 * **05 - Natural Language Processing (NLP):**
     * [Modelos de Linguagem e Embeddings](https://github.com/jaopredos/DeepLearning/blob/main/Natural%20Language%20Processing/language-models-embeddings.ipynb)
+    * [Modelos Especializados em Embeddings](https://github.com/jaopredos/DeepLearning/blob/main/Natural%20Language%20Processing/embeddings-models.ipynb)
+    
 ---
 
 ## 🚀 Como Utilizar
