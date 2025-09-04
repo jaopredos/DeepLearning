@@ -40,6 +40,7 @@ Os notebooks estão organizados por tópicos, seguindo uma ordem lógica de apre
     * [Modelos de Linguagem e Embeddings](https://github.com/jaopredos/DeepLearning/blob/main/Natural%20Language%20Processing/language-models-embeddings.ipynb)
     * [Modelos Especializados em Embeddings (word2vec e GloVe)](https://github.com/jaopredos/DeepLearning/blob/main/Natural%20Language%20Processing/embeddings-models.ipynb)
     * [Redes Sequence-to-Sequence](https://github.com/jaopredos/DeepLearning/blob/main/Natural%20Language%20Processing/seq2seq.ipynb)
+    * [Atenção e Transformer](https://github.com/jaopredos/DeepLearning/blob/main/Natural%20Language%20Processing/attention-transformer.ipynb)
     
 ---
 
